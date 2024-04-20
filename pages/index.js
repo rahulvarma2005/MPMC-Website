@@ -3,16 +3,14 @@ import Hero from '../components/hero';
 import Navbar from '../components/navbar';
 import SectionTitle from '../components/sectionTitle';
 import {
-	activities,
 	benefitOne,
-	benefitTwo,
 	features,
 } from '../components/data';
 import Benefits from '../components/benefits';
 import Footer from '../components/footer';
 import Cta from '../components/cta';
 import Features from '../components/features';
-import Activities from '../components/activities';
+
 
 export default function Home() {
 	return (

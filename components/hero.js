@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Container from './container';
-import heroImg from '../public/img/hero.png';
 import Img1 from '../public/img/uno1.jpg';
 export default function Hero() {
 	return (

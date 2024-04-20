@@ -1,23 +1,11 @@
 import {
 	ViewListIcon,
-	DeviceMobileIcon,
-	AdjustmentsIcon,
-	SunIcon,
-	DocumentDownloadIcon,
-	HeartIcon,
 	CloudIcon,
-	GlobeIcon,
-	ChatIcon,
-	CheckCircleIcon,
-	MoonIcon,
 } from '@heroicons/react/outline';
 
 import Uno2 from '../public/img/uno2.jpg';
 
 import activity1 from '../public/img/activity1.jpg';
-import activity2 from '../public/img/activity2.jpg';
-import activity3 from '../public/img/activity3.jpg';
-import activity4 from '../public/img/activity4.jpg';
 
 const benefitOne = {
 	title: 'Benefits of the project',
