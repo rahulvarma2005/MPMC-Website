@@ -18,7 +18,7 @@ export default function Hero() {
 
 						<div className='flex flex-col items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row mt-6'>
 							<a
-								href='tel:+420725423538'
+								href=''
 								className='px-8 py-4 text-lg font-medium text-center text-white bg-primaryPurple rounded-md '>
 								Get started now
 							</a>
