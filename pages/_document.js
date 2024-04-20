@@ -15,17 +15,17 @@ class MyDocument extends Document {
 					<meta
 						property='twitter:card'
 						content='http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbenefit-one.5fb0c5c8.png&w=1920&q=75'></meta>
-					<meta property='twitter:title' content='Team building app'></meta>
+					<meta property='twitter:title' content='Rat Detection Project'></meta>
 					<meta
 						property='twitter:description'
-						content='Unlock the full potential of your team with our innovative team building app.'></meta>
+						content=''></meta>
 					<meta
 						property='og:image'
 						content='http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbenefit-one.5fb0c5c8.png&w=1920&q=75'></meta>
-					<meta property='og:title' content='Team building app'></meta>
+					<meta property='og:title' content='Rat Detection Project'></meta>
 					<meta
 						property='og:description'
-						content='Unlock the full potential of your team with our innovative team building app.'
+						content=''
 					/>
 					<meta property='og:url' content='http://localhost:3000/'></meta>
 				</Head>

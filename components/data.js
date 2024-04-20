@@ -9,7 +9,7 @@ import activity1 from '../public/img/activity1.jpg';
 
 const benefitOne = {
 	title: 'Benefits of the project',
-	desc: 'Mobile app for teams to collaborate, share ideas, and work together towards common goals. With real-time communication and app notifications, your team will stay connected and informed, no matter where they are.',
+	desc: "Laser technology has been widely applied across industries, including manufacturing, security, and medicine, due to its precision, speed, and adaptability.The technology's application in rat detection presents a novel approach that contrasts with conventional methods such as traps and chemical baits.",
 	image: Uno2,
 	bullets: [
 		{

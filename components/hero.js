@@ -11,16 +11,16 @@ export default function Hero() {
 						Laser-Based Rat Detection System for Enhanced Rat Control
 						</h1>
 						<p className='py-5 text-xl leading-normal font-light text-gray-500 lg:text-sm xl:text-lg dark:text-gray-300'>
-							Unlock the full potential of your team with our innovative team
-							building app. Create a personalized team building experience that
-							aligns with your organization's culture and goals.
+						Rats are notorious pests known for causing property damage and spreading diseases such as leptospirosis and salmonellosis.
+						based rat detection system introduces an innovative approach that leverages the precision of laser technology 
+						and the versatility of microcontrollers.
 						</p>
 
 						<div className='flex flex-col items-start space-x-3 space-y-3 sm:space-y-0 sm:items-center sm:flex-row mt-6'>
 							<a
 								href=''
 								className='px-8 py-4 text-lg font-medium text-center text-white bg-primaryPurple rounded-md '>
-								Get started now
+								Paper Link
 							</a>
 						</div>
 					</div>
