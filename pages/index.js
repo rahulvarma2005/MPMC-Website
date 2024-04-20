@@ -16,8 +16,8 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<title>Teambuilding app</title>
-				<meta name='description' content='Teambuilding app' />
+				<title>Rat Detection Project</title>
+				<meta name='description' content='Rat Detection Project' />
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 
